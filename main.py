@@ -1,4 +1,4 @@
-# Ofir Shtrosberg, 207828641, Itamar Laredo, 311547087
+# Ofir Shtrosberg, 207828641, Itamar Laredo
 import hashlib
 import math
 from cryptography.hazmat.primitives.asymmetric import rsa
